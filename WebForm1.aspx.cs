@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -29,13 +29,13 @@ namespace WebApplication1
                 string qry = "select * from Login_tbl where UserName = '" + uname + "' and PassWord ='"+pwd+"'";
                 SqlCommand cmd = new SqlCommand(qry, con);
                 SqlDataReader reader = cmd.ExecuteReader();
-                if (reader.Read()) { Label2.Text = "Login Sucessful"; }
-                else { Label2.Text = "Incorrect Credential"; }
+                if (reader.Read()) { Label3.Text = "Login Sucessful"; }
+                else { Label3.Text = "Incorrect Credential"; }
             }
 
             catch(Exception ex)
             {
-                Label2.Text=ex.Message;
+                Label3.Text=ex.Message;
             }
         }
     }

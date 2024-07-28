@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Study Material\\sem5\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|d:\\study material\\sem5\\webapplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|d:\\study material\\sem5\\webapplication1\\css\\registrationcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|solutionrelative:css\\registrationcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|d:\\study material\\sem5\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|D:\\Study Material\\sem5\\WebApplication1\\css\\loginstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|solutionrelative:css\\loginstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|d:\\study material\\sem5\\webapplication1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|d:\\study material\\sem5\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|D:\\Study Material\\sem5\\WebApplication1\\css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C875022F-A1F5-4CCD-8EBF-C182A000FF00}|WebApplication1.csproj|solutionrelative:css\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,43 +33,59 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Study Material\\sem5\\WebApplication1\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "D:\\Study Material\\sem5\\WebApplication1\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-07-14T06:24:25.919Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebForm1.aspx.cs",
-              "DocumentMoniker": "D:\\Study Material\\sem5\\WebApplication1\\WebForm1.aspx.cs",
-              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
-              "ToolTip": "D:\\Study Material\\sem5\\WebApplication1\\WebForm1.aspx.cs",
-              "RelativeToolTip": "WebForm1.aspx.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB0AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-14T06:22:09.923Z",
+              "Title": "registrationcss.css",
+              "DocumentMoniker": "D:\\Study Material\\sem5\\WebApplication1\\CSS\\registrationcss.css",
+              "RelativeDocumentMoniker": "CSS\\registrationcss.css",
+              "ToolTip": "D:\\Study Material\\sem5\\WebApplication1\\CSS\\registrationcss.css",
+              "RelativeToolTip": "CSS\\registrationcss.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-28T16:43:02.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "D:\\Study Material\\sem5\\WebApplication1\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "D:\\Study Material\\sem5\\WebApplication1\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-28T16:35:20.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WebForm1.aspx",
-              "DocumentMoniker": "D:\\Study Material\\sem5\\WebApplication1\\WebForm1.aspx",
-              "RelativeDocumentMoniker": "WebForm1.aspx",
-              "ToolTip": "D:\\Study Material\\sem5\\WebApplication1\\WebForm1.aspx",
-              "RelativeToolTip": "WebForm1.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-07-14T06:06:10.631Z",
+              "Title": "loginstylesheet.css",
+              "DocumentMoniker": "D:\\Study Material\\sem5\\WebApplication1\\CSS\\loginstylesheet.css",
+              "RelativeDocumentMoniker": "CSS\\loginstylesheet.css",
+              "ToolTip": "D:\\Study Material\\sem5\\WebApplication1\\CSS\\loginstylesheet.css",
+              "RelativeToolTip": "CSS\\loginstylesheet.css",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-28T16:28:35.319Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "D:\\Study Material\\sem5\\WebApplication1\\CSS\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "CSS\\StyleSheet1.css",
+              "ToolTip": "D:\\Study Material\\sem5\\WebApplication1\\CSS\\StyleSheet1.css",
+              "RelativeToolTip": "CSS\\StyleSheet1.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-28T16:26:50.244Z"
             }
           ]
         }

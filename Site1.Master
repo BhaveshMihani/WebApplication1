@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 900px;
+        }
+    </style>
+    <link href="CSS/StyleSheet1.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table align="center" class="auto-style1">
+                <tr>
+                    <td>
+                        <div class="Width-100 header-menu">
+                            <div class="logo">
+                                <asp:Image ID="Image1" runat="server" src="Images/logo1-1.jpg" Height="124px" Width="228px" />
+                            </div>
+
+                            <ul class="main-menu">
+                                <li><a href="#">Home</a></li>
+                                <li><a href="#">About</a></li>
+                                <li><a href="#">Product</a></li>
+                                <li><a href="#">Login</a></li>
+                                <li><a href="#">Sign-In</a></li>
+                            </ul>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="copyright">
+                            © 2024 TechTitans. All rights reserved.
+                        </div></td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>
